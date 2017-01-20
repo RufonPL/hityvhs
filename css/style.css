@@ -1,0 +1,19 @@
+.container-main{
+	width: 1000px;
+	margin-left: auto;
+	margin-left: auto;
+}
+
+.post{
+	width: 600px;
+	background-color: #eee;
+	text-align: center;
+	padding: 5px;
+	margin: 10px;
+}
+
+.userEmail,.postPublished{
+	text-align: right;
+	margin: 0;
+	font-size: 10px;
+}
